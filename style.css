@@ -1,0 +1,6 @@
+* {
+    box-sizing: border-box;
+}
+.primary-list__products {
+    display: none;
+}
